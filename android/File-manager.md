@@ -1,6 +1,6 @@
-# Filw manager in Android
+# File manager in Android
 
-## File manager ±
+## File manager +
 
 * Allows copy-paste, rename, info, compress. 
 * Can access USB drive. 
