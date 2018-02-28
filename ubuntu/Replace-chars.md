@@ -5,3 +5,9 @@
 echo "How-to-do" | tr '-' " "
 
 > How to do
+
+## Replace N with *
+
+tr 'N' '-' <<< "BANANA";
+
+> BA*A*A
