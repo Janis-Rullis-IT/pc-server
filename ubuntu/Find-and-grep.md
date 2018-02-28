@@ -3,23 +3,17 @@
 ## Find by content
 
 * [Grep](https://help.ubuntu.com/community/grep)
+* [How do I find all files containing specific text on Linux?](https://stackoverflow.com/a/16957078)
 
-### In one file
-`grep 'STRING' filename`
+`grep -rnw '/path/to/somewhere/' -e 'pattern'`
 
-### In a folder
-`grep 'Nicolas Kassis' *`
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file name of matching files.
 
-### Grep Regular Expression
+### Example, find 'SHA'
+`grep -rn -e "SHA"`
 
-```
-^ - Denotes the beginning of a line
-$ - Denotes the end of a line
-. - Matches any one characters
-* - Matches 0 or more of the previous characters
-.* - Matches any number or type of characters
-[] - Matches on character for the one listed in the the Square brackets
-[^] - Does not match any characters listed
-\<, \>  - Denotes the beginning and end (respectively) of a word
-```
-
+#### Result
+`model/UsrModel.php:18:		// SHA-512`
