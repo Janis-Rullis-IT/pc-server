@@ -1,6 +1,6 @@
 # Find by filename or content
 
-## Find by content
+## Grep - Find by content
 
 * [Grep](https://help.ubuntu.com/community/grep)
 * [How do I find all files containing specific text on Linux?](https://stackoverflow.com/a/16957078)
@@ -17,3 +17,12 @@
 
 #### Result
 `model/UsrModel.php:18:		// SHA-512`
+
+
+## Find by filename
+
+### Find by extension
+
+ ```bash
+find . -name "*.png"
+```
