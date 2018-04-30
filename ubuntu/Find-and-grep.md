@@ -25,4 +25,11 @@
 
  ```bash
 find . -name "*.png"
+
+```
+
+#### [Multiple extensions](https://unix.stackexchange.com/a/15309)
+
+```bash
+find ./ -type f \( -iname \*.jpg -o -iname \*.png \)
 ```
