@@ -18,7 +18,7 @@ sudo apt-get update
 
 ### Commands
 
-* `gedit` - F1
+* `retext` - F1
 * `exo-open --launch FileManager` - Windows + E
 
 
