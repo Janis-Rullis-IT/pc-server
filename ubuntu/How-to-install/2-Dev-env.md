@@ -36,5 +36,8 @@ sudo cp gitp.sh  /usr/local/bin/gitp
 ```
 
 ## IDE
+
 * [Netbeans](https://github.com/janis-rullis/dev/blob/master/Code-editor/Netbeans/Setup-and-config-netbeans.md)
 * [VS Code](https://github.com/janis-rullis/dev/blob/master/Code-editor/VSCode.md#install)
+
+## [Postman](https://github.com/janis-rullis/dev/blob/master/Postman.md)
