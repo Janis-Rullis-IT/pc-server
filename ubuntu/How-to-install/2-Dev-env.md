@@ -34,3 +34,5 @@ sudo cp gits.sh  /usr/local/bin/gits
 sudo cp gitd.sh  /usr/local/bin/gitd
 sudo cp gitp.sh  /usr/local/bin/gitp
 ```
+
+## [Netbeans](https://github.com/janis-rullis/dev/blob/master/Code-editor/Netbeans/Setup-and-config-netbeans.md)
