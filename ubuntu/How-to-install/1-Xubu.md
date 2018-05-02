@@ -9,6 +9,11 @@ Currently latest version is 18.04 but most servers still use 16.04.
 * When it's done, eject the flash.
 * Plug into the PC on which You wish to install.
 * Enter into the BIOS (press F2 or DELETE on startup).
-* Select the USB flash as the primary boot device.
+* Select the USB flash (UEFI) as the primary boot device.
 * Reboot.
 * The Xubu installer will start.
+
+## Installer
+
+* Connect to network.
+* Check "Download updates" and "Install 3d party".
