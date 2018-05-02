@@ -33,6 +33,7 @@ sudo cp mdpr.sh  /usr/local/bin/mdpr
 sudo cp gits.sh  /usr/local/bin/gits
 sudo cp gitd.sh  /usr/local/bin/gitd
 sudo cp gitp.sh  /usr/local/bin/gitp
+sudo cp res.sh  /usr/local/bin/res
 ```
 
 ## IDE
