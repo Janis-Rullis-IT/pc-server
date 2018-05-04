@@ -21,8 +21,14 @@ sudo apt-get update
 * `retext` - F1
 * `exo-open --launch FileManager` - Windows + E
 
-
 ## [Configure GIT](https://github.com/janis-rullis/dev/tree/master/git#configure-git)
+
+## Add the new SSH key to Github / Gitlab
+
+```shell
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+```
 
 ## Setup shell helpers / shortcuts
 
