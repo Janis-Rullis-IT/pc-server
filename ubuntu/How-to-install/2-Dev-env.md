@@ -44,3 +44,5 @@ sudo cp res.sh  /usr/local/bin/res
 ## [Postman](https://github.com/janis-rullis/dev/blob/master/Postman.md)
 
 ## [Docker](https://github.com/janis-rullis/dev/blob/master/Docker)
+
+## [AWS CLI](https://github.com/janis-rullis/dev/blob/master/AWS)
