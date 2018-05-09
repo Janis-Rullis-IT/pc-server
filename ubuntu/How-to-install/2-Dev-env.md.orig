@@ -21,6 +21,11 @@ sudo apt-get update
 * `retext` - F1
 * `exo-open --launch FileManager` - Windows + E
 
+## [Configure GIT](https://github.com/janis-rullis/dev/tree/master/git#configure-git)
+<<<<<<< HEAD
+## [Set global gitignore](https://github.com/janis-rullis/dev/blob/master/git/Git-ignore/Set-up-global-gitignore.md)
+=======
+
 ## Add the new SSH key to Github / Gitlab
 
 ```shell
@@ -28,8 +33,7 @@ ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
 
-## [Configure GIT](https://github.com/janis-rullis/dev/tree/master/git#configure-git)
-## [Set global gitignore](https://github.com/janis-rullis/dev/blob/master/git/Git-ignore/Set-up-global-gitignore.md)
+>>>>>>> 28f003519ca42790667603f88e1a27d91f8373d5
 ## Setup shell helpers / shortcuts
 
 ```shell
@@ -48,3 +52,7 @@ sudo cp res.sh  /usr/local/bin/res
 * [VS Code](https://github.com/janis-rullis/dev/blob/master/Code-editor/VSCode.md#install)
 
 ## [Postman](https://github.com/janis-rullis/dev/blob/master/Postman.md)
+
+## [Docker](https://github.com/janis-rullis/dev/blob/master/Docker)
+
+## [AWS CLI](https://github.com/janis-rullis/dev/blob/master/AWS)
