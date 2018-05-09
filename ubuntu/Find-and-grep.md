@@ -28,6 +28,24 @@ find . -name "*.png"
 
 ```
 
+## Find in current dir by selecting depth
+
+```shell
+find . -maxdepth 1
+```
+
+## Ignore directories
+
+```shell
+find .  ! -type d
+```
+
+## Ignore file
+
+```shell
+find . ! -name $file
+```
+
 #### [Multiple extensions](https://unix.stackexchange.com/a/15309)
 
 ```bash

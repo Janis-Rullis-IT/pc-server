@@ -23,7 +23,7 @@ sudo apt-get update
 
 
 ## [Configure GIT](https://github.com/janis-rullis/dev/tree/master/git#configure-git)
-
+## [Set global gitignore](https://github.com/janis-rullis/dev/blob/master/git/Git-ignore/Set-up-global-gitignore.md)
 ## Setup shell helpers / shortcuts
 
 ```shell
