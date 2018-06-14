@@ -21,11 +21,16 @@
 
 ## Find by filename
 
+### Contains
+
+```shell
+find * -name '*2638*'
+```
+
 ### Find by extension
 
  ```bash
 find . -name "*.png"
-
 ```
 
 ## Find in current dir by selecting depth
