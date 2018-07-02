@@ -11,21 +11,29 @@
 m h  dom mon dow   command
 ```
 
+## Example script
+
+```shell
+#!/bin/bash
+cd /app
+echo "DUB" > /app/cron-dub.log
+```
+
 ## [To run a command every 5th minute on the hour:](https://crontab.guru/#*/5_*_*_*_*)
 
 ```
-*/5 * * * * cd /app && mix user -n "Cron Tab" -f true
+*/5 * * * * sh /app/cron-mix.sh
 ```
 
 ## Every minute
 
 ```
-* * * * * cd /app && mix user -n "Cron Tab" -f true
+* * * * * sh /app/cron-mix.sh
 ```
 
 ## To run a command every Tuesday at 4:00am, you’d use:
 ```
-0 4 * * 2 cd /app && mix user -n "Cron Tab" -f true
+0 4 * * 2 sh /app/cron-mix.sh
 ```
 
 ## Successfully added
@@ -48,3 +56,20 @@ crontab: installing new crontab
 * -e - edit.
 * -l - list.
 * -r - delete.
+
+
+## Service
+
+### Status
+
+```shell
+service cron status
+```
+> [FAIL] cron is not running ... failed!
+
+### Start
+
+```shell
+service cron start
+```
+> [ ok ] Starting periodic command scheduler: cron.
