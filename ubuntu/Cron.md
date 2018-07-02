@@ -15,7 +15,7 @@ m h  dom mon dow   command
 
 ```shell
 #!/bin/bash
-set -Eeuo pipefail; # set -o xtrace;
+set -e; # set -o xtrace;
 cd /app
 echo "DUB" > /app/cron-dub.log
 ```
@@ -82,5 +82,5 @@ service cron start
  ```
 
 ```shell
- set -Eeuo pipefail; # set -o xtrace;
+ set -e;
 ```
