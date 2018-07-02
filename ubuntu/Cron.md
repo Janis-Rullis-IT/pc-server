@@ -15,6 +15,7 @@ m h  dom mon dow   command
 
 ```shell
 #!/bin/bash
+set -Eeuo pipefail; # set -o xtrace;
 cd /app
 echo "DUB" > /app/cron-dub.log
 ```
@@ -22,18 +23,18 @@ echo "DUB" > /app/cron-dub.log
 ## [To run a command every 5th minute on the hour:](https://crontab.guru/#*/5_*_*_*_*)
 
 ```
-*/5 * * * * sh /app/cron-mix.sh
+*/5 * * * * sh /app/cron-mix.sh >> /app/storage/cron.log 2>&1
 ```
 
 ## Every minute
 
 ```
-* * * * * sh /app/cron-mix.sh
+* * * * * sh /app/cron-mix.sh >> /app/storage/cron.log 2>&1
 ```
 
 ## To run a command every Tuesday at 4:00am, you’d use:
 ```
-0 4 * * 2 sh /app/cron-mix.sh
+0 4 * * 2 sh /app/cron-mix.sh >> /app/storage/cron.log 2>&1
 ```
 
 ## Successfully added
@@ -73,3 +74,13 @@ service cron status
 service cron start
 ```
 > [ ok ] Starting periodic command scheduler: cron.
+
+## [Debug](https://stackoverflow.com/a/4883119)
+
+```shell
+ >>/var/log/cronrun 2>&1
+ ```
+
+```shell
+ set -Eeuo pipefail; # set -o xtrace;
+```
