@@ -14,10 +14,14 @@
 
 ### Example, find 'SHA'
 `grep -rn -e "SHA"`
+> `model/UsrModel.php:18:		// SHA-512`
 
-#### Result
-`model/UsrModel.php:18:		// SHA-512`
+### [Grep characters before and after match?](https://stackoverflow.com/a/8101804)
 
+```shell
+grep -E -o "John.{0,10}" users.txt
+```
+> John Doe
 
 ## Find by filename
 
