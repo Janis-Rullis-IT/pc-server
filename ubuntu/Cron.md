@@ -84,3 +84,11 @@ service cron start
 ```shell
  set -e;
 ```
+
+## Weird solutions
+
+### Crontab is not running
+
+Once there was a case when cron scripts did not execute. Did all the regular stuff, kept only 1 task that just writes echo to file, gave all perms, service was running. Nothing helps, except...
+
+#### REBOOT!
