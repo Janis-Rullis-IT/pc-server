@@ -13,5 +13,10 @@ M-disc is the best choice.
 * [Best Internal Blu-Ray Burner Rewriter Drive 2017-2018](https://nerdtechy.com/best-internal-blu-ray-burner-rewriter-drive).
 * [lg-WH16NS40-internal-blu-ray-dvd-drive](http://www.lg.com/us/burners-drives/lg-WH16NS40-internal-blu-ray-dvd-drive)
 
+### ASUS BC-12D2HT
+
+* [m79.lv](https://m79.lv/datorukomponentes/diskdzini/asus-bc12d2ht-bluray-combo-at-12x-bluray-reading-speed-mdisc-and-bdxl-support#)
+* [pcworld.com](https://www.pcworld.co.uk/gbuk/computing-accessories/components-and-upgrades/cd-dvd-and-blu-ray-drives/asus-bc-12d2ht-internal-blu-ray-combo-21857228-pdt.html)
+
 ## Pack of 100GB M discs
 * [BluRay M-DISC BD-R Verbatim [ jewel case 5 | 100GB | 4x | Inkjet Printable ] matricas](https://m79.lv/datortehnikasaksesuari/matricas/bluray-mdisc-bdr-verbatim--jewel-case-5--100gb--4x--inkjet-printable-)
