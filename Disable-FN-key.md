@@ -4,6 +4,12 @@
 
 ## Solution
 
+### If ESC has FnLk
+
+Press Fn + ESC.
+
+### Else
+
 Hold the FN key for about 30 seconds.
 
 ## Test
