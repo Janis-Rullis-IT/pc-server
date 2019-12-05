@@ -45,7 +45,7 @@ sudo cp res.sh  /usr/local/bin/res
 ## IDE
 
 * [Netbeans](https://github.com/janis-rullis/dev/blob/master/Code-editor/Netbeans/Setup-and-config-netbeans.md)
-* [VS Code](https://github.com/janis-rullis/dev/blob/master/Code-editor/VSCode.md#install)
+* [VS Code](https://github.com/janis-rullis/dev/tree/master/Code-editor/VSCode#install)
 
 ## [Postman](https://github.com/janis-rullis/dev/blob/master/Postman.md)
 
