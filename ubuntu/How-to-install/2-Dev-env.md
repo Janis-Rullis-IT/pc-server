@@ -5,7 +5,7 @@
 ```shell
 sudo usermod -a -G www-data root
 sudo locale-gen "lv_LV.UTF-8"
-sudo apt-get install mc htop git git-cola gedit shutter meld mysql-workbench retext unrar -y
+sudo apt-get install mc htop git git-cola gedit shutter meld mysql-workbench retext unrar shellcheck -y
 sudo apt-get install software-properties-common
 sudo apt-get update
 ```
@@ -18,7 +18,7 @@ sudo apt-get update
 
 ### Commands
 
-* `retext` - F1
+* `gedit` - F1
 * `exo-open --launch FileManager` - Windows + E
 
 ## Add the new SSH key to Github / Gitlab
