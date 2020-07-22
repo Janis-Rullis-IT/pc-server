@@ -1,6 +1,7 @@
 # Long-term data stoarge
 
 * piqlfilm - nano qr on 35mm = 500+ yrs https://cld.bz/users/user-WmA6B3j/Piql-Introduction/8/
+* memory crystals = gazillion yrs https://en.wikipedia.org/wiki/5D_optical_data_storage?wprov=sfla1
 
 ## Articles
 * [Hard-core data preservation: The best media and methods for archiving your data](https://www.pcworld.com/article/2984597/storage/hard-core-data-preservation-the-best-media-and-methods-for-archiving-your-data.html)
