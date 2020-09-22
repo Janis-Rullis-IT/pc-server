@@ -7,7 +7,7 @@ sudo usermod -a -G www-data root
 sudo locale-gen "lv_LV.UTF-8"
 sudo add-apt-repository ppa:linuxuprising/shutter
 sudo apt-get update
-sudo apt-get install mc htop git git-cola gedit shutter meld retext unrar shellcheck libimage-exiftool-perl
+sudo apt-get install mc htop git git-cola gedit shutter meld retext unrar shellcheck libimage-exiftool-perl webp 
 
  vlc -y
 sudo apt-get install software-properties-common
@@ -50,6 +50,8 @@ sudo ln -s ~/Desktop/www/shell-scripts/gitd.sh  /usr/local/bin/gitd
 sudo ln -s ~/Desktop/www/shell-scripts/gitp.sh  /usr/local/bin/gitp
 sudo ln -s ~/Desktop/www/shell-scripts/res.sh  /usr/local/bin/res
 ```
+
+## [content_gen](https://github.com/ruu-lv/content_gen)
 
 ## IDE
 
