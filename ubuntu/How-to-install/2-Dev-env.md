@@ -7,7 +7,9 @@ sudo usermod -a -G www-data root
 sudo locale-gen "lv_LV.UTF-8"
 sudo add-apt-repository ppa:linuxuprising/shutter
 sudo apt-get update
-sudo apt-get install mc htop git git-cola gedit shutter meld retext unrar shellcheck vlc -y
+sudo apt-get install mc htop git git-cola gedit shutter meld retext unrar shellcheck libimage-exiftool-perl
+
+ vlc -y
 sudo apt-get install software-properties-common
 sudo apt-get update
 ```
