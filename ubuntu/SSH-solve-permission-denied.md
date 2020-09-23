@@ -28,3 +28,9 @@ sudo systemctl restart sshd
 ```
 
 Now try to connect again. A password should be asked.
+
+> Remember to change back to ``PasswordAuthentication no`.
+
+## If loggin-in as `root`
+
+Make sure that in the `ssh_config` the `PermitRootLogin` is set to `yes`.
