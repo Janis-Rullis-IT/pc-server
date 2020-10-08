@@ -1,4 +1,4 @@
-[MS-teams](https://websiteforstudents.com/how-to-install-microsoft-teams-on-ubuntu-20-04-18-04/)
+# [MS-teams](https://websiteforstudents.com/how-to-install-microsoft-teams-on-ubuntu-20-04-18-04/)
 
 ## Install
 
