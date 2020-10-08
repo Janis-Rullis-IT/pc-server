@@ -6,7 +6,7 @@
 
 ## Empty interface
 
-The interface may be empty and "You haven't got a team or a similiar message" may appear even if the registration may be completed.
+The interface may be empty and "You haven't got a team" or a similiar message may appear even if the registration may be completed.
 
 ### Solution
 
