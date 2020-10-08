@@ -1,5 +1,7 @@
 [MS-teams](https://websiteforstudents.com/how-to-install-microsoft-teams-on-ubuntu-20-04-18-04/)
 
+## Install
+
 * https://teams.microsoft.com/downloads#allDevicesSection
 
 ## Empty interface
