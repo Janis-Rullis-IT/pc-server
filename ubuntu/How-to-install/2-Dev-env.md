@@ -53,8 +53,8 @@ sudo ln -s ~/Desktop/www/shell-scripts/res.sh  /usr/local/bin/res
 
 ## IDE
 
-* [Netbeans](https://github.com/janis-rullis/dev/blob/master/Code-editor/Netbeans/Setup-and-config-netbeans.md)
-* [VS Code](https://github.com/janis-rullis/dev/tree/master/Code-editor/VSCode#install)
+* [Netbeans](https://github.com/Janis-Rullis-IT/dev/blob/master/Tools/Code-editor/Netbeans/Setup-and-config-netbeans.md)
+* [VS Code](https://github.com/Janis-Rullis-IT/dev/tree/master/Tools/Code-editor/VSCode#install)
 
 ## [Postman](https://github.com/Janis-Rullis-IT/dev/blob/master/Tools/Postman.md)
 
