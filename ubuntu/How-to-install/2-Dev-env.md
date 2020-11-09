@@ -56,6 +56,6 @@ sudo ln -s ~/Desktop/www/shell-scripts/res.sh  /usr/local/bin/res
 * [Netbeans](https://github.com/janis-rullis/dev/blob/master/Code-editor/Netbeans/Setup-and-config-netbeans.md)
 * [VS Code](https://github.com/janis-rullis/dev/tree/master/Code-editor/VSCode#install)
 
-## [Postman](https://github.com/janis-rullis/dev/blob/master/Postman.md)
+## [Postman](https://github.com/Janis-Rullis-IT/dev/blob/master/Tools/Postman.md)
 
 ## [Docker](https://github.com/janis-rullis/dev/blob/master/Docker/README.md#install)
