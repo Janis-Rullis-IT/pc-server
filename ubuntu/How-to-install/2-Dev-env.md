@@ -32,7 +32,7 @@ ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
 
-## [Configure GIT](https://github.com/janis-rullis/dev/tree/master/git#configure-git)
+## [Configure GIT](https://github.com/Janis-Rullis-IT/dev/tree/master/Tools/git#configure-git)
 ## [Set global gitignore](https://github.com/janis-rullis/dev/blob/master/git/Git-ignore/Set-up-global-gitignore.md)
 ## Setup shell helpers / shortcuts
 
