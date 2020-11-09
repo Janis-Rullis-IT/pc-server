@@ -58,4 +58,4 @@ sudo ln -s ~/Desktop/www/shell-scripts/res.sh  /usr/local/bin/res
 
 ## [Postman](https://github.com/Janis-Rullis-IT/dev/blob/master/Tools/Postman.md)
 
-## [Docker](https://github.com/janis-rullis/dev/blob/master/Docker/README.md#install)
+## [Docker](https://github.com/Janis-Rullis-IT/dev/tree/master/Tools/Docker#install)
