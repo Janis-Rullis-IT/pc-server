@@ -42,11 +42,11 @@ mkdir www
 cd www
 git clone https://github.com/janis-rullis/shell-scripts
 cd shell-scripts
-sudo ln -s ~/Desktop/www/shell-scripts/mdpr.sh  /usr/local/bin/mdpr
-sudo ln -s ~/Desktop/www/shell-scripts/gits.sh  /usr/local/bin/gits
-sudo ln -s ~/Desktop/www/shell-scripts/gitd.sh  /usr/local/bin/gitd
-sudo ln -s ~/Desktop/www/shell-scripts/gitp.sh  /usr/local/bin/gitp
-sudo ln -s ~/Desktop/www/shell-scripts/res.sh  /usr/local/bin/res
+sudo ln -s ${PWD}/shell-scripts/mdpr.sh  /usr/local/bin/mdpr
+sudo ln -s ${PWD}/shell-scripts/gits.sh  /usr/local/bin/gits
+sudo ln -s ${PWD}/shell-scripts/gitd.sh  /usr/local/bin/gitd
+sudo ln -s ${PWD}/shell-scripts/gitp.sh  /usr/local/bin/gitp
+sudo ln -s ${PWD}/shell-scripts/res.sh  /usr/local/bin/res
 ```
 
 ## [content_gen](https://github.com/ruu-lv/content_gen)
