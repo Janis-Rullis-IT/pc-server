@@ -9,6 +9,9 @@ A single solid state drive (SSD) RAID array can offer performance which is compa
 * https://insights.samsung.com/2020/08/04/is-it-time-to-replace-your-raid-storage-with-ssds-3/
 * https://superuser.com/a/232344
 * https://www.diskinternals.com/raid-recovery/move-from-hdd-raid-to-ssd/
+* https://www.starwindsoftware.com/blog/raid-5-was-great-until-high-capacity-hdds-came-into-play-but-ssds-restored-its-former-glory-2
+* https://www.diskinternals.com/raid-recovery/raid-1-vs-raid-5/
+* https://www.diffen.com/difference/RAID-1-vs-RAID-5
 
 ## 5 or 10 (1+0)
 
@@ -24,3 +27,4 @@ A single solid state drive (SSD) RAID array can offer performance which is compa
 ### Will the speed gained from 5 will be worth the writes?
 
 > SSD lifetime depends on writes.
+* RAID 5 just like RAID 0 uses stripping which is SPEED!
