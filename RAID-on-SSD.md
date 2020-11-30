@@ -15,16 +15,22 @@ A single solid state drive (SSD) RAID array can offer performance which is compa
 
 ## 5 or 10 (1+0)
 
-### 5 it is
+### 5 if 3 SSDs, 10 if 4 SSDs
+
+* https://www.diskinternals.com/raid-recovery/raid-5-vs-raid-10/
 
 * 10 is faster but not storage effective (min 4 disks, lose half the storage).
 
 ## 5 or 0 ?
 
+### 5 it is
+
 * 5 is faster but has a lot of writes to provide the speed and mirroring.
 * 1 is just mirroring to the 2nd HDD.
 
 ### Will the speed gained from 5 will be worth the writes?
+
+#### Yes, it is
 
 > SSD lifetime depends on writes.
 * RAID 5 just like RAID 0 uses stripping which is SPEED!
