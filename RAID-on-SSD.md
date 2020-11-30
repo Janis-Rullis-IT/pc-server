@@ -8,6 +8,7 @@ A single solid state drive (SSD) RAID array can offer performance which is compa
 * https://ssdcompares.com/best-raid-choice-ssd-array/
 * https://insights.samsung.com/2020/08/04/is-it-time-to-replace-your-raid-storage-with-ssds-3/
 * https://superuser.com/a/232344
+* https://www.diskinternals.com/raid-recovery/move-from-hdd-raid-to-ssd/
 
 ## 5 or 10 (1+0)
 
