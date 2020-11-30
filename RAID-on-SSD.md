@@ -5,3 +5,9 @@
 A single solid state drive (SSD) RAID array can offer performance which is comparable to many HDD RAID arrays, and is therefore often seen as an alternative to an SSD RAID array.
 
 * https://www.enterprisestorageforum.com/storage-hardware/ssd-raid.html
+
+## 5 or 10 (1+0)
+
+### 5 it is
+
+* 10 is faster but not storage effective (min 4 disks, lose half the storage).
