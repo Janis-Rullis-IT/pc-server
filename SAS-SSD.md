@@ -26,3 +26,7 @@ The use of SATA hard drives on SAS controllers is made possible by the fact that
 * SAS drives cannot be plugged into SATA controllers.
  
 There is a difference between the SAS and SATA connectors, and both includes power and data. On SATA drives, there is a separation between power and data, while with SAS drives it is unified. See figure:
+
+## Why SATA SSD?
+
+* Waaaay cheaper. Use in RAID 10 and have all the perks as in SAS but 10x cheaper.
