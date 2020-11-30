@@ -28,3 +28,7 @@ A single solid state drive (SSD) RAID array can offer performance which is compa
 
 > SSD lifetime depends on writes.
 * RAID 5 just like RAID 0 uses stripping which is SPEED!
+
+Nearly 2x the speed.
+
+![https://www.enterprisestorageforum.com/imagesvr_ce/9609/RAIDBenchmarks.png](https://www.enterprisestorageforum.com/imagesvr_ce/9609/RAIDBenchmarks.png)
