@@ -10,11 +10,19 @@
 
 ## SATA drive to SAP interface
 
+### Yes, SATA drive can be connected to SAP backplane
+
 * https://serverfault.com/questions/52092/can-sas-drives-be-used-with-sata-controllers
 * https://en.wikipedia.org/wiki/Serial_Attached_SCSI
 
 SAS offers optional compatibility with Serial ATA (SATA), versions 2 and later. This allows the connection of SATA drives to most SAS backplanes or controllers. The reverse, connecting SAS drives to SATA backplanes, is not possible.
 
-## Yes, SATA drive can be connected to SAP backplane
+* https://www.seagate.com/gb/en/support/kb/connecting-sata-drive-to-sas-controller-006170en/
 
-SAP drive to SATA can not.
+SAS controllers enable the use of SATA drives to expand the storage capacity with cost-effectiveness. 
+The use of SATA hard drives on SAS controllers is made possible by the fact that both share the same infrastructure and have similar features.
+ 
+* **SATA drives may be plugged into SAS controllers.**
+* SAS drives cannot be plugged into SATA controllers.
+ 
+There is a difference between the SAS and SATA connectors, and both includes power and data. On SATA drives, there is a separation between power and data, while with SAS drives it is unified. See figure:
