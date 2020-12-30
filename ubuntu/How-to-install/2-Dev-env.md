@@ -12,6 +12,10 @@ sudo apt-get install software-properties-common
 sudo apt-get update
 ```
 
+## Chrome
+
+* https://github.com/Janis-Rullis-IT/pc-server/blob/bcdbeec41585a003c96eb15b1371846d5508645a/Chrome.md
+
 # https://linuxhint.com/installing_mysql_workbench_ubuntu/
 
 ## Set shortucts
