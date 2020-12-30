@@ -12,15 +12,19 @@
 
 ### Try
 
-* chrome://flags/#enable-reader-mode
-* chrome://flags/#focus-mode
-* chrome://flags/#pdf-two-up-view
+
 * chrome://flags/#enable-force-dark
+* chrome://flags/#pdf-viewer-update
 * chrome://flags/#tab-hover-cards & chrome://flags/#tab-hover-card-images
 * chrome://flags/#enable-parallel-downloading
 * chrome://flags/#impulse-scroll-animations
-* chrome://flags/#enable-quic
+* chrome://flags/#enable-quic - h3
 * chrome://flags/#global-media-controls-cast-start-stop
+
+#### Meeh
+
+* chrome://flags/#enable-reader-mode - Don't seem too useful - pages are too squeezed but maybe for some pages it's fine.
+* ~~chrome://flags/#focus-mode~~ - Can't be found but based [comments in this post](https://www.ghacks.net/2019/03/22/a-look-at-chromes-new-focus-this-tab-feature/) - it's just F11.
 
 ## Devtools
 
