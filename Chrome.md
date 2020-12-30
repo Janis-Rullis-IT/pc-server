@@ -20,7 +20,7 @@
 * chrome://flags/#enable-parallel-downloading
 * chrome://flags/#impulse-scroll-animations
 * chrome://flags/#enable-quic
-* chrome://flags/#global-media-controls
+* chrome://flags/#global-media-controls-cast-start-stop
 
 ## Devtools
 
