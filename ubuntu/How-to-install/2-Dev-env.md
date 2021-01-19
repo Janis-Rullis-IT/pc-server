@@ -16,6 +16,10 @@ sudo apt-get update
 
 * https://github.com/Janis-Rullis-IT/pc-server/blob/bcdbeec41585a003c96eb15b1371846d5508645a/Chrome.md
 
+## Markdown
+
+* https://remarkableapp.github.io/linux/download.html
+
 # https://linuxhint.com/installing_mysql_workbench_ubuntu/
 
 ## Set shortucts
