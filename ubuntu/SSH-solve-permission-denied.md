@@ -7,7 +7,7 @@
 > using `ssh-copy-id` (better than editing the the `authorized_keys` using a text editor).
 
 ```shell
-ssh_copy_id example.com
+ssh-copy-id root@example.com
 ```
 
 ### If `ssh-copy-id` public key denied
