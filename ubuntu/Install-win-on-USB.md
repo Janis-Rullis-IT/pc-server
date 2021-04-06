@@ -2,6 +2,16 @@
 
 * [Download Win 10](https://www.microsoft.com/lv-lv/software-download/windows10ISO)
 
+## Woe
+
+```shell
+sudo add-apt-repository ppa:tomtomtom/woeusb
+sudo apt update && sudo apt install woeusb -y
+```
+
+## unetbootin
+
+
 ```shell
 sudo add-apt-repository ppa:gezakovacs/ppa
 sudo apt-get update
