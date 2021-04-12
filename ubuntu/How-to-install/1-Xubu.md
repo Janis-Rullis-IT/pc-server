@@ -3,7 +3,7 @@
 * [Download Xubuntu LTS that matches most of servers](https://xubuntu.org/release/18-04/).
 Currently latest version is 18.04 but most servers still use 16.04.
 * Plug your USB flash into the PC.
-* Install Startup Disk Creator.
+* Install Startup Disk Creator. `sudo apt-get install usb-creator-gtk`
 * After the install launch it.
 * Select Your flash as the target device and the downloaded ISO as the source.
 * When it's done, eject the flash.
