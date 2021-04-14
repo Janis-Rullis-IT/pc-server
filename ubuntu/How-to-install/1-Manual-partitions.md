@@ -1,6 +1,4 @@
-# 1-Manual-partitions.md
-
- * https://www.itzgeek.com/post/how-to-install-ubuntu-20-04-lts/
+# [1-Manual-partitions.md](https://www.itzgeek.com/post/how-to-install-ubuntu-20-04-lts/) 
 
 * efi - 1 GB /  primary / EFI Sys part.
 * swap - 4 GB  / logical / swap area
