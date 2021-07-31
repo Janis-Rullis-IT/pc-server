@@ -3,7 +3,7 @@
 ## Speed
 * [Speed class rating](https://en.wikipedia.org/wiki/Secure_Digital#Speed_class_rating)
 * [How Different Are U1 Vs U3 SD Memory Cards & CF Vs XQD Cards?](https://www.slrlounge.com/different-u1-vs-u3-sd-memory-cards-cf-vs-xqd-cards/).
-
+* u3 faster than u1. 
 ## [Capacity](https://en.wikipedia.org/wiki/Secure_Digital)
 
 ### SDSC (SD)
