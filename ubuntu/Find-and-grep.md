@@ -1,5 +1,8 @@
 # Find by filename or content
 
+
+sed Tricks https://www.tecmint.com/linux-sed-command-tips-tricks/
+
 ## Grep - Find by content
 
 * [Grep](https://help.ubuntu.com/community/grep)
