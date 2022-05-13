@@ -1,7 +1,13 @@
 # Find by filename or content
 
 
-sed Tricks https://www.tecmint.com/linux-sed-command-tips-tricks/
+## sed Tricks
+* https://www.tecmint.com/linux-sed-command-tips-tricks/
+* https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/
+
+```shell
+sed -i 's/db_v2/db_v1/g' tab.sql
+```
 
 ## Grep - Find by content
 
