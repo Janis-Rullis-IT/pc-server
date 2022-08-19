@@ -20,7 +20,9 @@ sudo apt-get update
 
 * https://remarkableapp.github.io/linux/download.html
 
-# https://linuxhint.com/installing_mysql_workbench_ubuntu/
+# DB
+* https://dbgate.org/
+* TablePlus trial.
 
 ## Set shortucts
 
