@@ -1,5 +1,25 @@
 # [Get a full info about a sys](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
 
+## os
+
+```shell
+cat /etc/os-release 
+```
+```
+NAME="Alpine Linux"
+ID=alpine
+VERSION_ID=3.12.7
+PRETTY_NAME="Alpine Linux v3.12"
+HOME_URL="https://alpinelinux.org/"
+BUG_REPORT_URL="https://bugs.alpinelinux.org/"
+```
+
+```shell
+uname -a > os.txt
+```
+> Linux tecmint.com 3.13.0-37-generic #64-Ubuntu SMP Mon Sep 22 21:28:38 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+
+
 ```shell
 mkdir sys-info
 cd sys-info
@@ -22,13 +42,6 @@ sudo dmidecode -t bios > bios.txt
 ```shell
 sudo fdisk -l > fs.txt
 ```
-
-## os
-
-```shell
-uname -a > os.txt
-```
-> Linux tecmint.com 3.13.0-37-generic #64-Ubuntu SMP Mon Sep 22 21:28:38 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
 
 ## sys
 
