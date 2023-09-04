@@ -4,5 +4,7 @@
 * [How To Extract .tar.gz Files using Linux Command Line (interserver.net)](https://www.interserver.net/tips/kb/extract-tar-gz-files-using-linux-command-line/)
 
 ```shell
-tar xvzf file.tar.gz -C /path/to/somedirectory
+tar -czvf stats.tar.gz stats
+mkdir stats2
+tar -xzvf stats.tar.gz -C stats2
 ```
