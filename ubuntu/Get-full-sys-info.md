@@ -31,6 +31,12 @@ cd sys-info
 sudo lshw -html > sys.html
 ```
 
+## Video card
+```shell
+lspci
+```
+> Then check for VGA devices. Example, `Advanced Micro Devices, Inc. [AMD/ATO] Ellesmere [Radeon RX 470/480 ...`.
+
 ## bios
 
 ```shell
