@@ -1,5 +1,7 @@
 # [Install ubuntu on encrypted partitions](https://medium.com/@chrishantha/encrypting-disks-on-ubuntu-19-04-b50bfc65182a)
 
+This is done in the live USB env, **before** installing the OS.
+
 ## Gparted 
 > 250gb.
 
