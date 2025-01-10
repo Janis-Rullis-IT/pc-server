@@ -2,13 +2,14 @@
 
 This is done in the live USB env, **before** installing the OS.
 
-## Gparted 
-> 250gb.
+## In Gparted
+> 250gb disk.
+Create a `gpt` partition table first. These are the correct partitions (not sure about swap). /efi and stuff is configured in the later installation step.
 
 * boot / Boot / 1 GB / prim / ext4
 * swap / Swap / 4 GB / prim / ext4
-* root / Root / 60 GB / prim / ext4 /dev/mapper/vgroot-lvroot
-* home / Home / 140> GB / prim / ext4 /dev/mapper/vghome-lvhome
+* root / Root / 60 GB / prim / ext4 - will later mapped to `/dev/mapper/vgroot-lvroot`.
+* home / Home / 140> GB / prim / ext4 - will later mapped to `/dev/mapper/vghome-lvhome`.
 
 ## Encrpypt
 
