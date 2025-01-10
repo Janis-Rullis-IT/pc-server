@@ -5,8 +5,8 @@
 
 * boot / Boot / 1 GB / prim / ext4
 * swap / Swap / 4 GB / prim / ext4
-* root / Root / 80 GB / prim / ext4 /dev/mapper/vgroot-lvroot
-* home / Home / 120 GB / prim / ext4 /dev/mapper/vghome-lvhome
+* root / Root / 60 GB / prim / ext4 /dev/mapper/vgroot-lvroot
+* home / Home / 140> GB / prim / ext4 /dev/mapper/vghome-lvhome
 
 ## Encrpypt
 
