@@ -5,7 +5,7 @@
 ```shell
 sudo usermod -a -G www-data root
 sudo locale-gen "lv_LV.UTF-8"
-sudo add-apt-repository ppa:linuxuprising/shutter
+sudo add-apt-repository universe
 sudo apt-get update
 sudo apt-get install mc htop git git-cola gedit shutter meld retext unrar shellcheck libimage-exiftool-perl webp ffmpeg vlc tldr curl krita -y
 sudo apt-get install software-properties-common
